@@ -1,8 +1,8 @@
-## Hi there 👋
+
+
+# 自我介绍
 
 <!--
-**MaxforCherubim/MaxforCherubim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 工作经历
+
+2025-至今 平安产险 江西分公司车险部
+
+## 
