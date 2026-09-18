@@ -29,7 +29,7 @@
 
 | QQ | 微信 | Discord | LinkedIn |
 | :---: | :---: | :---: | :---: |
-| <img src="./imgs/QQ-QRcode.png" alt="WeChat QR"> | <img src="./imgs/WeChat-QRcode.png" alt="QQ QR"> | <img src="./imgs/discord.png" alt="Discord QR"> | <img src="./imgs/linkedin.png" alt="LinkedIn QR"> |
+| <img src="./imgs/QQ-QRcode.png" width="120" height="240" alt="WeChat QR"> | <img src="./imgs/WeChat-QRcode.png" width="120" height="240" alt="QQ QR"> | <img src="./imgs/discord.png" width="120" height="240" alt="Discord QR"> | <img src="./imgs/linkedin.png" width="120" height="240" alt="LinkedIn QR"> |
 | 扫码加微信 | 扫码加QQ | 扫码加Discord | 扫码看领英 |
 
 </div>
