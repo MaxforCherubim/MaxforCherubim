@@ -19,10 +19,9 @@
 - [repo链接1](https://github.com/MaxforCherubim/Jufe-master-thesis-Typst-template) 江西财经大学硕士毕业论文Typst模板
 
 ## 📊 GitHub Stats
-<!-- 基础github统计卡片，把username换成你的github用户名 -->
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username={maxforcherubim}&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 常用语言卡片，可选，不想要删掉 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={maxforcherubim}&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.moonrailgun.com/api?username={maxforcherubim}&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.moonrailgun.com/api/top-langs/?username={maxforcherubim}&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🔗 Connect with me
 <div align="center">
